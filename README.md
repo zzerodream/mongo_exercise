@@ -1,2 +1,2 @@
 # 50.003
-Details in defferent branches
+Mongo as environmental virable, and also npm install in the terminal.
